@@ -71,6 +71,66 @@ const ViewProducts = () => {
                                 </div>
 
                             </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Cauliflower</h6>
+                                        <h6 class="card-title">Rs. 34</h6>
+                                        <a href="#" class="btn btn-success">Add to cart</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Cauliflower</h6>
+                                        <h6 class="card-title">Rs. 34</h6>
+                                        <a href="#" class="btn btn-success">Add to cart</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Cauliflower</h6>
+                                        <h6 class="card-title">Rs. 34</h6>
+                                        <a href="#" class="btn btn-success">Add to cart</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Cauliflower</h6>
+                                        <h6 class="card-title">Rs. 34</h6>
+                                        <a href="#" class="btn btn-success">Add to cart</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+
+                                <div class="card">
+                                    <img src="https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80" height="300px" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h6 class="card-title">Cauliflower</h6>
+                                        <h6 class="card-title">Rs. 34</h6>
+                                        <a href="#" class="btn btn-success">Add to cart</a>
+                                    </div>
+                                </div>
+
+                            </div>
                         </div>
 
                     </div>
