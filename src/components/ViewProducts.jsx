@@ -22,7 +22,8 @@ const ViewProducts = () => {
 
                         <div className="row g-3">
                             {prodata.map(
-                                (value, index) => (
+                                (value, index) => {
+                                    return(
                                     <div className="col col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
 
                                         <div class="card">
@@ -36,7 +37,7 @@ const ViewProducts = () => {
 
                                     </div>
                                 )
-                            )}
+                            })}
 
                         </div>
                     </div>
